@@ -1,4 +1,4 @@
-console.log("This is my first Javascript program")
+console.log("This is my second JS  program")
 
 function test(){
     var temp=5;

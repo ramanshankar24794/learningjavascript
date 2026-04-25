@@ -1,0 +1,26 @@
+console.log("=============================================");
+console.log("        Price list Assignment                ");
+console.log("=============================================");
+console.log("");
+console.log("Test 1 : " , "Price List Assignment at Customer Level");
+console.log("Status : " , "PASS");
+console.log("");
+console.log("Test 2 : " , "Price List Assignment at account Level");
+console.log("Status : " , "PASS");
+console.log("");
+console.log("Test 3 : " , "Price List Assignment at header Level");
+console.log("Status : " , "Fail");
+console.log("");
+console.log("Test 4 : " , "Price List Assignment at member Level");
+console.log("Status : " , "Fail");
+console.log("");
+console.log("Test 5 : " , "Price List Assignment at Billing Set Level");
+console.log("Status : " , "Pass");
+
+console.log("");
+console.log("=============================================");
+console.log("                 Test Summary                ");
+console.log("=============================================");
+console.log("Total Tests : " ,"5");
+console.log("Passed : " ,"3");
+console.log("Failed : ", "2");
