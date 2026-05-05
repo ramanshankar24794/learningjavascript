@@ -20,6 +20,6 @@ let max1 = 9007199254740991n;
 console.log("catch block " +(max1 + 1n));  
 console.log("catch block " +(max1 + 2n)); 
 console.log("catch block " +(max1 + 3n)); 
-console.log("Type of Max1 is "+ typeof(max1))
+console.log("Type of Max1 is "+ typeof(max1));
 }
 
